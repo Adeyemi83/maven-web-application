@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.235.130.4:4000/repository/pay-release/</url>
+	      <url>http://34.235.130.4:5000/repository/gpay-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.235.130.4:4000/repository/pay-snapshot/</url>
+	      <url>http://34.235.130.4:5000/repository/gpay-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
