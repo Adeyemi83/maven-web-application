@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.210.75.64:8081/repository/tesla-fe-releases/</url>
+	      <url>http://34.235.130.4:4000/repository/pay-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.210.75.64:8081/repository/tesla-fe-snapshot/</url>
+	      <url>http://34.235.130.4:4000/repository/pay-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
